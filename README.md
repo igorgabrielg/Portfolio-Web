@@ -1,7 +1,3 @@
-
-
-Intuito desse site e apresentar minha carreira profissional assim como meus projetos.
-
 <h1 align="center">
     Portfólio Web
 </h1>
@@ -14,7 +10,7 @@ Intuito desse site e apresentar minha carreira profissional assim como meus proj
 </p>
 
 ## Projeto
-Intuito desse site e apresentar minha carreira profissional assim como meus projetos.
+Intuito desse site é apresentar minha carreira profissional assim como meus projetos.
 
 ## Imagens
 
@@ -36,7 +32,7 @@ Intuito desse site e apresentar minha carreira profissional assim como meus proj
 
 ## Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto esta sendo desenvolvida com as seguintes tecnologias:
 
 - HTML
 - JS
