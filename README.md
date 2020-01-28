@@ -10,7 +10,10 @@
 </p>
 
 ## Projeto
-Intuito desse site é apresentar minha carreira profissional assim como meus projetos.
+Esse site apresenta minha carreira profissional, nele é possivel ver um linha tempo que mostra minhas decisões e evolução de cada ano.
+E possivel ver meus projetos e artigos de tecnologias. 
+
+Link: [Portfólio Web](http://igorgabriell.000webhostapp.com/)
 
 ## Imagens
 
